@@ -1,3 +1,3 @@
 # BlenderScripts
 
-Scripts to convert PLY(3D Scan format) to OBJ and to auto rig them
+Scripts to convert PLY(3D Scan format) to OBJ and to auto rig them in Blender
